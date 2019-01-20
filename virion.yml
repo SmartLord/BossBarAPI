@@ -1,6 +1,8 @@
 name: BossBarAPI
 version: 6.0.0
 antigen: xenialdan\BossBarAPI
-api: [4.0.0]
+api: [3.0.0]
 php: [7.2]
-author: XenialDan
+authors:
+ - XenialDan
+ - SmartLord
